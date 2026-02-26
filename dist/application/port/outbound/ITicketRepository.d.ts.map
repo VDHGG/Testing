@@ -1,0 +1,1 @@
+{"version":3,"file":"ITicketRepository.d.ts","sourceRoot":"","sources":["../../../../src/application/port/outbound/ITicketRepository.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,wBAAwB,CAAC;AAErD,MAAM,WAAW,iBAAiB;IAC9B,IAAI,CAAC,MAAM,EAAG,MAAM,GAAI,OAAO,CAAC,IAAI,CAAC,CAAA;IACrC,OAAO,IAAI,OAAO,CAAC,MAAM,EAAE,CAAC,CAAA;CAC/B"}

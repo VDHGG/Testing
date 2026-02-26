@@ -1,0 +1,1 @@
+{"version":3,"file":"TicketUseCase.d.ts","sourceRoot":"","sources":["../../../../src/application/port/in/TicketUseCase.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,0BAA0B,CAAC;AAGvD,MAAM,WAAW,aAAa;IAC1B,YAAY,CAAG,KAAK,EAAE,MAAM,EAAE,WAAW,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAI,OAAO,CAAC,MAAM,CAAC,CAAA;IACpF,OAAO,IAAI,OAAO,CAAC,MAAM,EAAE,CAAC,CAAA;CAC/B"}
